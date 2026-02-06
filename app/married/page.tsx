@@ -15,21 +15,18 @@ export default function MarriedMenPage() {
           <h2 className="text-2xl font-serif font-bold text-primary mt-2 mb-3">
             Leading Without Controlling
           </h2>
-          <p className="text-stone-600 mb-4">
-            Biblical headship is not about being in charge. It is about laying down your life. 
-            Here is what that looks like practically.
-          </p>
           <blockquote className="verse-highlight">
             Husbands, love your wives, just as Christ also loved the church and gave Himself 
             up for her. — Ephesians 5:25 (NASB)
           </blockquote>
           <div className="mt-6 prose prose-stone">
             <p>
-              The model is not a CEO. It is a crucified Savior.
+              Biblical headship is not about being in charge. It is about laying down your life.
             </p>
             <p>
-              Christ's leadership of the church looks like sacrifice, not control. Initiative, 
-              not passivity. Service, not demands. That is the bar for husbands.
+              The model is not a CEO. It is a crucified Savior. Christ's leadership of the church 
+              looks like sacrifice, not control. Initiative, not passivity. Service, not demands. 
+              That is the bar for husbands.
             </p>
             <h3>What This Looks Like</h3>
             <ul>
@@ -51,15 +48,14 @@ export default function MarriedMenPage() {
           <h2 className="text-2xl font-serif font-bold text-primary mt-2 mb-3">
             Present Over Perfect
           </h2>
-          <p className="text-stone-600 mb-4">
-            Your kids do not need a perfect dad. They need a present one. 
-            Here is how to actually be there — even when work and life compete.
-          </p>
           <blockquote className="verse-highlight">
             Fathers, do not provoke your children to anger, but bring them up in the discipline 
             and instruction of the Lord. — Ephesians 6:4 (NASB)
           </blockquote>
           <div className="mt-6 prose prose-stone">
+            <p>
+              Your kids do not need a perfect dad. They need a present one.
+            </p>
             <p>
               Notice what comes first: do not provoke. Before instruction comes connection. 
               Before discipline comes relationship. Kids who feel loved receive correction. Kids 
@@ -90,15 +86,15 @@ export default function MarriedMenPage() {
           <h2 className="text-2xl font-serif font-bold text-primary mt-2 mb-3">
             More Than Physical
           </h2>
-          <p className="text-stone-600 mb-4">
-            A healthy marriage bed starts long before the bedroom. 
-            Here is what most men miss about intimacy.
-          </p>
           <blockquote className="verse-highlight">
             Let marriage be held in honor among all, and let the marriage bed be undefiled. 
             — Hebrews 13:4 (NASB)
           </blockquote>
           <div className="mt-6 prose prose-stone">
+            <p>
+              A healthy marriage bed starts long before the bedroom. Here is what most men miss 
+              about intimacy.
+            </p>
             <p>
               Men often compartmentalize: there is regular life, and then there is sex. But for 
               most wives, it is all connected. How you treat her at 7 AM affects how she feels 
@@ -124,15 +120,14 @@ export default function MarriedMenPage() {
           <h2 className="text-2xl font-serif font-bold text-primary mt-2 mb-3">
             Provider Does Not Mean Workaholic
           </h2>
-          <p className="text-stone-600 mb-4">
-            Providing for your family matters. But your family needs more than money. 
-            Finding the balance.
-          </p>
           <blockquote className="verse-highlight">
             But if anyone does not provide for his own, and especially for those of his household, 
             he has denied the faith and is worse than an unbeliever. — 1 Timothy 5:8 (NASB)
           </blockquote>
           <div className="mt-6 prose prose-stone">
+            <p>
+              Providing for your family matters. But your family needs more than money.
+            </p>
             <p>
               This verse is real. Provision is a responsibility. But provide is not just financial. 
               Your family needs your presence, your attention, your spiritual leadership. 

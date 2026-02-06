@@ -15,15 +15,15 @@ export default function SingleMenPage() {
           <h2 className="text-2xl font-serif font-bold text-primary mt-2 mb-3">
             Your Worth Is Not Waiting
           </h2>
-          <p className="text-stone-600 mb-4">
-            Culture says you are incomplete until you find the one. Scripture says you are already 
-            complete in Christ. Let us unpack what that actually means for how you live today.
-          </p>
           <blockquote className="verse-highlight">
             For in Him all the fullness of Deity dwells in bodily form, and in Him you have been 
             made complete. — Colossians 2:9-10 (NASB)
           </blockquote>
           <div className="mt-6 prose prose-stone">
+            <p>
+              Culture says you are incomplete until you find the one. Scripture says you are already 
+              complete in Christ.
+            </p>
             <p>
               Paul was not writing to married people. He was writing to the church — single, married, 
               widowed, all of it. And he says: you have been made complete. Past tense. Done.
@@ -52,15 +52,15 @@ export default function SingleMenPage() {
           <h2 className="text-2xl font-serif font-bold text-primary mt-2 mb-3">
             The Battle Nobody Talks About
           </h2>
-          <p className="text-stone-600 mb-4">
-            Lust is not just a married man's problem — and it is not just about willpower. 
-            Here is what actually works.
-          </p>
           <blockquote className="verse-highlight">
             Flee from sexual immorality. Every other sin that a man commits is outside the body, 
             but the sexually immoral person sins against his own body. — 1 Corinthians 6:18 (NASB)
           </blockquote>
           <div className="mt-6 prose prose-stone">
+            <p>
+              Lust is not just a married man's problem — and it is not just about willpower. 
+              Here is what actually works.
+            </p>
             <p>
               Notice Paul does not say fight or resist. He says flee. Run. Get out.
             </p>
@@ -88,15 +88,15 @@ export default function SingleMenPage() {
           <h2 className="text-2xl font-serif font-bold text-primary mt-2 mb-3">
             What Are You Building?
           </h2>
-          <p className="text-stone-600 mb-4">
-            Single men have a gift married men often envy: margin. The question is what you are 
-            doing with it.
-          </p>
           <blockquote className="verse-highlight">
             One who is unmarried is concerned about the things of the Lord, how he may please 
             the Lord. — 1 Corinthians 7:32 (NASB)
           </blockquote>
           <div className="mt-6 prose prose-stone">
+            <p>
+              Single men have a gift married men often envy: margin. The question is what you are 
+              doing with it.
+            </p>
             <p>
               Paul is not saying single is better than married. He is saying single has unique 
               advantages: fewer competing priorities, more flexibility, undivided focus.
